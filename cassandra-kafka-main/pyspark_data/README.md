@@ -37,7 +37,7 @@ CREATE KEYSPACE ineuron
 
 Create a table Employee
 ```
- CREATE TABLE ineuron.EMPLOYEE(
+ CREATE TABLE EMPLOYEE(
      EMP_ID INT,
      EMP_NAME text,
      CITY text,
