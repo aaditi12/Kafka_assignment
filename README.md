@@ -1,5 +1,6 @@
 # Kafka_assignment
 Install Extensions:- python(pylance), dev containers, cassandra workbench, remote development
+
 PySpark Apache Kafka and Cassandra DB
 This project demonstrate how to setup developmen enviornment locally This is a repo help you to understand and launch Kafka cluster
 
